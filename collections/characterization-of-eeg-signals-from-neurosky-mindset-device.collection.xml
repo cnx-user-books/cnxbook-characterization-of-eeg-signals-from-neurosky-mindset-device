@@ -1,54 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Isabella Gonzalez ,Timeer Amin ,Reed Jones ,Mihir Mongia">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11392</md:content-id>
-  <md:title>Characterization of EEG Signals from NeuroSky MindSet Device</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>17250ee8-43f8-43d5-ba48-5b5836c6c89d</md:uuid>
-<md:slug>characterization-of-eeg-signals-from-neurosky-mindset-device</md:slug>
-</metadata>
-
+    <md:content-id>col11392</md:content-id>
+    <md:title>Characterization of EEG Signals from NeuroSky MindSet Device</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+    <md:language>en</md:language>
+    <md:uuid>17250ee8-43f8-43d5-ba48-5b5836c6c89d</md:uuid>
+    <md:slug>characterization-of-eeg-signals-from-neurosky-mindset-device</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m41951"/>
-        
-      
-    
-    
-      <col:module document="m41954"/>
-        
-      
-    
-    
-      <col:module document="m41966"/>
-        
-      
-    
-    
-      <col:module document="m41972"/>
-        
-      
-    
-    
-      <col:module document="m41965"/>
-        
-      
-    
-    
-      <col:module document="m41970"/>
-        
-      
-    
+    <col:module document="m41951"/>
+    <col:module document="m41954"/>
+    <col:module document="m41966"/>
+    <col:module document="m41972"/>
+    <col:module document="m41965"/>
+    <col:module document="m41970"/>
   </col:content>
 </col:collection>
